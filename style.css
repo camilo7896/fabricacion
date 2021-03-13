@@ -1,0 +1,17 @@
+canvas {
+    border: 1px solid rgb(0, 0, 0);
+    /*   background: black;
+*/
+}
+
+#lienzo_2 {
+    border: 1px solid blue;
+    background: red;
+}
+
+form {
+    background: black;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+}
